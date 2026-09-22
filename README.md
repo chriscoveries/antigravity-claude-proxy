@@ -6,7 +6,7 @@
 
 <a href="https://buymeacoffee.com/badrinarayanans" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"></a>
 
-A proxy server that exposes an **Anthropic-compatible API** backed by **Antigravity's Cloud Code**, letting you use Claude and Gemini models with **Claude Code CLI**.
+Fork of [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) — a proxy that exposes an Anthropic-compatible API backed by Antigravity's Cloud Code, for using Claude/Gemini models in Claude Code. No fork-specific changes yet; install from upstream (`npx antigravity-claude-proxy`).
 
 ![Antigravity Claude Proxy Banner](images/banner.png)
 
@@ -51,7 +51,7 @@ antigravity-claude-proxy start
 ### Option 2: Clone Repository
 
 ```bash
-git clone https://github.com/badri-s2001/antigravity-claude-proxy.git
+git clone https://github.com/badrisnarayanan/antigravity-claude-proxy.git
 cd antigravity-claude-proxy
 npm install
 npm start
@@ -352,4 +352,4 @@ MIT
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=badri-s2001/antigravity-claude-proxy&type=date&legend=top-left&cache-control=no-cache)](https://www.star-history.com/#badri-s2001/antigravity-claude-proxy&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=badrisnarayanan/antigravity-claude-proxy&type=date&legend=top-left&cache-control=no-cache)](https://www.star-history.com/#badrisnarayanan/antigravity-claude-proxy&type=date&legend=top-left)
