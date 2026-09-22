@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <title>antigravity-claude-proxy — use Antigravity's Claude and Gemini models inside Claude Code</title>
+  <desc>A dark GitHub-style social card with two abstract logo shapes connected through a proxy node.</desc>
+  <rect width="1600" height="900" fill="#0d1117"/>
+  <rect x="56" y="56" width="1488" height="788" rx="28" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <path d="M56 156H1544" stroke="#30363d" stroke-width="2"/>
+  <circle cx="102" cy="106" r="8" fill="#ff7b72"/><circle cx="130" cy="106" r="8" fill="#d29922"/><circle cx="158" cy="106" r="8" fill="#3fb950"/>
+  <text x="205" y="115" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" letter-spacing="2">CHRIS COVERIES / MODEL PROXY</text>
+  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="126" y="310" fill="#8b949e" font-size="22" letter-spacing="4">ONE INTERFACE, MORE MODELS</text>
+    <text x="120" y="416" fill="#f0f6fc" font-size="52" font-weight="700" letter-spacing="-2" textLength="700" lengthAdjust="spacingAndGlyphs">antigravity-claude-proxy</text>
+    <text x="124" y="482" fill="#8b949e" font-size="22">use Antigravity's Claude and Gemini models inside Claude Code</text>
+    <rect x="124" y="554" width="214" height="5" rx="3" fill="#ff7b72"/>
+    <text x="124" y="620" fill="#8b949e" font-size="21" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">route · translate · continue</text>
+  </g>
+
+  <g transform="translate(845 207)">
+    <rect x="0" y="0" width="604" height="474" rx="28" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+    <path d="M122 237H482" stroke="#ff7b72" stroke-width="5" stroke-linecap="round" stroke-dasharray="10 14"/>
+    <g>
+      <circle cx="112" cy="237" r="84" fill="#161b22" stroke="#ff7b72" stroke-width="3"/>
+      <path d="M148 186C128 166 94 158 70 177C45 197 45 242 71 270C95 296 127 290 148 270" fill="none" stroke="#ff7b72" stroke-width="12" stroke-linecap="round"/>
+      <text x="112" y="355" text-anchor="middle" fill="#f0f6fc" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="600">Claude Code</text>
+      <text x="112" y="382" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">interface</text>
+    </g>
+    <g>
+      <circle cx="492" cy="237" r="84" fill="#161b22" stroke="#ff7b72" stroke-width="3"/>
+      <path d="M492 165L509 217L562 237L509 257L492 309L475 257L422 237L475 217Z" fill="none" stroke="#ff7b72" stroke-width="8" stroke-linejoin="round"/>
+      <text x="492" y="355" text-anchor="middle" fill="#f0f6fc" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="600">Antigravity</text>
+      <text x="492" y="382" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15">Claude + Gemini</text>
+    </g>
+    <g>
+      <circle cx="302" cy="237" r="56" fill="#161b22" stroke="#ff7b72" stroke-width="4"/>
+      <path d="M278 224h48M278 237h48M278 250h48" stroke="#ff7b72" stroke-width="5" stroke-linecap="round"/>
+      <text x="302" y="132" text-anchor="middle" fill="#ff7b72" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="2">PROXY NODE</text>
+    </g>
+    <path d="M198 237h46M360 237h46" stroke="#ff7b72" stroke-width="5" stroke-linecap="round"/>
+    <path d="M232 228l12 9-12 9M372 228l-12 9 12 9" fill="none" stroke="#ff7b72" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="120" y="790" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="1">ANTIGRAVITY-CLAUDE-PROXY / CHANGE THE ROUTE, KEEP THE FLOW</text>
+</svg>
